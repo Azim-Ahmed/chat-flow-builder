@@ -1,0 +1,14 @@
+@import "base";
+@import "@xyflow/react/dist/style.css";
+@import "overlayscrollbars/styles/overlayscrollbars.css";
+@import "split-pane-react/esm/themes/default.css";
+@import "overrides/overlayscrollbars";
+@import "overrides/reactflow";
+
+body {
+    @apply font-normal w-full of-x-hidden text-light-50 bg-dark-700 scroll-smooth h-dvh;
+}
+
+#root {
+    @apply w-full h-full of-hidden;
+}
