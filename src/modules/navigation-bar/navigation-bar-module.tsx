@@ -39,7 +39,7 @@ export function NavigationBarModule() {
                         </div>
 
                         <div className="text-xs text-light-50/60 leading-none">
-                            By Denish Sharma
+                            By Azim Ahmed
                         </div>
                     </div>
                 </div>
@@ -72,14 +72,14 @@ export function NavigationBarModule() {
                         <div className="flex items-stretch gap-x-0.5">
                             <SocialButtonLink
                                 onClick={() => trackSocialLinkClick("linkedin")}
-                                href="https://www.linkedin.com/in/denishsharma/"
+                                href="https://www.linkedin.com/in/azimuahmed"
                             >
                                 <div className="i-mynaui:brand-linkedin size-4.5" />
                             </SocialButtonLink>
 
                             <SocialButtonLink
                                 onClick={() => trackSocialLinkClick("github")}
-                                href="https://github.com/denishsharma/chatbot-flow-builder-task-bitespeed"
+                                href="https://github.com/Azim-Ahmed/chatbot-flow-builder"
                             >
                                 <div className="i-mynaui:brand-github size-4.5" />
                             </SocialButtonLink>

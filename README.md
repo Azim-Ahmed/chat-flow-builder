@@ -36,9 +36,3 @@ A chatbot flow is built by connecting multiple messages to decide the order of e
 - UnoCss
 
 ## Author
-
-- **Denish Sharma**
-    - Email: denishcommon@gmail.com
-    - LinkedIn: [denish-sharma](https://www.linkedin.com/in/denishsharma/)
-    - GitHub: [denish-sharma](https://www.github.com/denishsharma)
-    - React Starter Template: [react-starter-template](https://github.com/denishsharma/react-starter-template)

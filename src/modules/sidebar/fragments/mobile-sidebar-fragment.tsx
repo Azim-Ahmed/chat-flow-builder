@@ -71,7 +71,7 @@ export function MobileSidebarFragment({ activePanel, setActivePanel }: MobileSid
                     <div className="h-4 w-px shrink-0 bg-dark-300" />
 
                     <a
-                        href="https://www.linkedin.com/in/denishsharma/"
+                        href="https://www.linkedin.com/in/azimuahmed/"
                         onClick={() => trackSocialLinkClick("linkedin")}
                         target="_blank"
                         rel="noopener noreferrer"
@@ -81,7 +81,7 @@ export function MobileSidebarFragment({ activePanel, setActivePanel }: MobileSid
                     </a>
 
                     <a
-                        href="https://github.com/denishsharma/chatbot-flow-builder-task-bitespeed"
+                        href="https://github.com/Azim-Ahmed/chatbot-flow-builder"
                         onClick={() => trackSocialLinkClick("github")}
                         target="_blank"
                         rel="noopener noreferrer"
