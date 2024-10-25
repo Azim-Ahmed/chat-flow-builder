@@ -2,7 +2,7 @@
 
 ![Chatbot Flow Builder](./task-screenshot.jpeg)
 
-[See the live demo](https://chatbot-flow-builder-task-bitespeed.vercel.app/)
+[See the live demo](https://chat-flow-builder-one.vercel.app/)
 
 We’ll build a simple Chatbot flow builder using React and try to make the code extensible to easily add new features.
 
