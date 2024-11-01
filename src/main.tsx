@@ -17,7 +17,7 @@ import { initializeHead } from "~@/unhead";
 
 initializeHead();
 
-ReactGA.initialize("G-CJM5ZGWSKN");
+ReactGA.initialize("");
 
 OverlayScrollbars.plugin(ClickScrollPlugin);
 
