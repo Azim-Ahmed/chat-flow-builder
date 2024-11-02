@@ -6,7 +6,6 @@ import { setAutoFreeze } from "immer";
 import { ClickScrollPlugin, OverlayScrollbars } from "overlayscrollbars";
 import React from "react";
 import ReactDOM from "react-dom/client";
-import ReactGA from "react-ga4";
 
 import "~/assets/styles/global.scss";
 
@@ -17,7 +16,6 @@ import { initializeHead } from "~@/unhead";
 
 initializeHead();
 
-ReactGA.initialize("");
 
 OverlayScrollbars.plugin(ClickScrollPlugin);
 
