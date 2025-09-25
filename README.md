@@ -1,4 +1,4 @@
-# BiteSpeed Frontend Task: Chatbot flow builder
+# BiteSpeed Frontend Task: Chatbot flow build
 ## This is created by Denish , and his repo is https://github.com/denishsharma/chatbot-flow-builder-task-bitespeed 
 ## I have cloned this and make this more available to my github due to more reach
 ## Scroll Below to see custom nodes and logics and issues and other
