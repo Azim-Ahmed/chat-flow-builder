@@ -11,7 +11,7 @@ We’ll build a simple Chatbot flow builder using React and try to make the code
 
 A chatbot flow is built by connecting multiple messages to decide the order of executions
 
-## Features
+## Feature
 
 ### Nodes
 
